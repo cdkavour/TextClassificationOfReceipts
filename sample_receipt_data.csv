@@ -1,0 +1,19 @@
+text,coordinates,label
+Murphy,-49 80 -24 80 -49 76 -24 76,store_name
+USA,-21 82 -5 82 -21 78 -5 78,store_name
+7528,-2 81 17 81 -2 77 17 77,store_number
+2745 10th Ave N,-48 76 -17 76 -48 72 -17 72,store_address
+Palm Springs,-49 71 -23 71 -49 68 -23 68,store_city
+FL,-20 70 -15 70 -20 65 -15 65,store_state
+33461,-14 70 -2 70 -14 65 -2 65,store_zip
+12/11/2017,-48 64 -29 64 -48 61 -29 61,date
+22:40:50,-24 64 -7 64 -24 61 -7 61,time
+Store#7528,-3 67 19 67 -3 61 19 61,store_number
+1,-42 22 -38 22 -42 17 -38 17,product_quantity
+305s KING FF BPACK,-37 23 4 23 -37 17 4 17,product_description
+$4.69,16 23 25 23 16 17 25 17,product_price
+1,-43 15 -38 15 -43 11 -38 11,product_quantity
+305s KING FF BPACK,-37 15 3 15 -37 11 3 11,product_description
+$4.69,13 16 25 16 13 13 25 13,product_price
+$10.04,11 2 25 2 11 -4 25 -4,receipt_subtotal
+Walmart,-25 -25 -10 -25 -25 -30 -10 -30,store_name
